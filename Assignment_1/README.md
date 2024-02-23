@@ -42,4 +42,3 @@ Our implementation leverages core OOP concepts, including:
 
 The Complaint Management Module exemplifies the application of OOP principles in building a scalable, maintainable, and efficient system. By adhering to these principles, our module not only ensures robust data handling and operation flexibility but also lays the groundwork for future enhancements and integrations within the Real Estate Management Application.
 
-
