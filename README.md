@@ -5,10 +5,11 @@ Object Oriented Programming II- Java
 
 ## Developed by Group 22: 
 - 1. RICHARD KARANU MBUTI - SCT212-0062/2019
-- 2. 
-- 3.
-- 4.
-- 5.
+- 2. Teresiah Njeri- SCT212-0133/2022
+- 3. Vanessa Kalondu - SCT212-0159/2022
+- 4. Nimrod Mutisya-SCT212-0709/2022
+- 5. Viona Njenga - SCT212-0577/2022
+
 
 This document outlines the design and implementation of the Complaint Management Module for our Real Estate Management Application. Utilizing Java's Object-Oriented Programming (OOP) principles, we've created a robust system that handles the submission, tracking, and resolution of complaints related to real estate properties.
 
